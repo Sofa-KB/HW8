@@ -1,2 +1,2 @@
 # HW8
-Team Profile Generator in CLI
+Team Profile Generator in CLI.

@@ -17,3 +17,5 @@ test("Can get office number via getOffice()", () => {
   const e = new Manager("Foo", 1, "test@test.com", testValue);
   expect(e.getPhoneNumber()).toBe(testValue);
 });
+
+//final
