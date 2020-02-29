@@ -1,0 +1,27 @@
+{
+  "name": "hw8",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofa-KB/HW8.git"
+  },
+  "author": "Sofa-KB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofa-KB/HW8/issues"
+  },
+  "homepage": "https://github.com/Sofa-KB/HW8#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0"
+  }
+}
