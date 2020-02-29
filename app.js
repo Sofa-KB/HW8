@@ -44,7 +44,6 @@ async function create() {
         fs.writeFile('./generated/generated.html', createHTML(personCards), function(err){
             if(err) throw err
             console.log('File created successfully!')
-            console.log(personCards)
         })
     } catch(err) {
         console.log(err);
